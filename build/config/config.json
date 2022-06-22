@@ -1,0 +1,20 @@
+{
+  "CONTRACT_ADDRESS": "0xA70A9251aEE0FE294a276F991fD9F0D586fEb616",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xA70A9251aEE0FE294a276F991fD9F0D586fEb616",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "CollageBotsTest",
+  "SYMBOL": "CBT",
+  "OWNER": "0xDd5f7D3D52F97b94fCFed492730240e93d792e98",
+  "MAX_MINT_AMOUNT": 20,
+  "MAX_SUPPLY": 400,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/collagebotstest",
+  "SHOW_BACKGROUND": true
+}
