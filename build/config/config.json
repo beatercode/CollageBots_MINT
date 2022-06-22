@@ -15,6 +15,6 @@
   "DISPLAY_COST": 0.01,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/collagebotstest",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/collagebotstest-v4",
   "SHOW_BACKGROUND": true
 }
