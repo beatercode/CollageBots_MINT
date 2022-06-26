@@ -15,6 +15,11 @@
 				"internalType": "string",
 				"name": "_initBaseURI",
 				"type": "string"
+			},
+			{
+				"internalType": "address",
+				"name": "collageBotsVoult",
+				"type": "address"
 			}
 		],
 		"stateMutability": "nonpayable",
