@@ -1,1 +1,1 @@
-Collage Bot Mint Test PAge
+Collage Bot Mint Page
