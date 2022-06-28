@@ -13,7 +13,7 @@
   "MAX_MINT_AMOUNT": 20,
   "MAX_SUPPLY": 2222,
   "WEI_COST": 10000000000000000,
-  "DISPLAY_COST": 0.01,
+  "DISPLAY_COST": 0.003,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/collagebots-test",
