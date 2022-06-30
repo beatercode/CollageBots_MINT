@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0x5ce3FDaAB9Dd8A03B22e403c158298A06d88a867",
-  "SCAN_LINK": "https://etherscan.io/address/",
+  "CONTRACT_ADDRESS": "0x05A7328F81FB1eD77a405caC4621d2EB33530F00",
+  "SCAN_LINK": "https://etherscan.io/address/0x05A7328F81FB1eD77a405caC4621d2EB33530F00",
   "NETWORK": {
-    "NAME": "Rinkeby",
+    "NAME": "Ethereum",
     "SYMBOL": "ETH",
-    "ID": 4
+    "ID": 1
   },
   "NFT_NAME": "Collage Bots",
   "SYMBOL": "CBOTS",
@@ -14,8 +14,8 @@
   "MAX_SUPPLY": 2222,
   "WEI_COST": 3000000000000000,
   "DISPLAY_COST": 0.003,
-  "GAS_LIMIT": 285000,
+  "GAS_LIMIT": 100000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collagebots-official",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/collagebots",
   "SHOW_BACKGROUND": true
 }
